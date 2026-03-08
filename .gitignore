@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Nuxt build output
+.nuxt/
+.output/
+
+# Admin panel (built separately)
+public/admin/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+*.sw?
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+*.local
+.env
+
+# Lock files (regenerated on install)
+package-lock.json
+pnpm-lock.yaml
+yarn.lock

@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "include": ["/*"],
+  "exclude": [
+    "/_nuxt/*",
+    "/favicon.svg",
+    "/admin/assets/*",
+    "/admin/iconfont/*",
+    "/admin/*.png",
+    "/admin/*.svg",
+    "/admin/*.json",
+    "/admin/*.js",
+    "/admin/*.css",
+    "/admin/*.ttf",
+    "/admin/*.woff*",
+    "/admin/admin.html"
+  ]
+}
