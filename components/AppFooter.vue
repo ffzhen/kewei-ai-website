@@ -4,11 +4,12 @@
       <div class="grid grid-cols-1 md:grid-cols-4 gap-12">
         <!-- Brand -->
         <div class="md:col-span-1">
-          <div class="flex items-center gap-2 mb-4">
-            <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-primary-500 to-accent-500 flex items-center justify-center">
-              <span class="text-white font-bold text-lg">可</span>
-            </div>
-            <span class="text-xl font-bold gradient-text">可为AI</span>
+          <div class="flex items-center mb-4">
+            <img 
+              src="/images/kiwii-logo-final.png" 
+              alt="可为AI - KIWII" 
+              class="h-10 w-auto"
+            />
           </div>
           <p class="text-gray-400 text-sm leading-relaxed">
             新一代多智能体视频生成系统，让内容创作从此简单高效。
