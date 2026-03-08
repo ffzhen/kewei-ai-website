@@ -134,7 +134,7 @@
           </div>
           <div class="glass p-6 rounded-2xl">
             <h4 class="text-white font-semibold mb-2">支持哪些视频类型？</h4>
-            <p class="text-gray-400 text-sm">目前主要支持 IP 口播、知识科普、观点分享等类型的短视频。支持 9:16 竖版和 16:9 横版，可发布到抖音、小红书、视频号等主流平台。</p>
+            <p class="text-gray-400 text-sm">目前支持 9:16 竖版视频（抖音/小红书/视频号格式）；暂不支持 16:9 横版视频，后续版本会加入。</p>
           </div>
         </div>
       </div>
