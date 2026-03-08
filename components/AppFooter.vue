@@ -5,9 +5,7 @@
         <!-- Brand -->
         <div class="md:col-span-1">
           <div class="flex items-center gap-2 mb-4">
-            <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-primary-500 to-accent-500 flex items-center justify-center">
-              <span class="text-white font-bold text-lg">可</span>
-            </div>
+            <img src="/images/kiwii-logo-new.png" alt="可为AI Logo" class="h-10 w-10 object-contain rounded-xl" />
             <span class="text-xl font-bold gradient-text">可为AI</span>
           </div>
           <p class="text-gray-400 text-sm leading-relaxed">
