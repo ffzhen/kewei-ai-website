@@ -107,12 +107,12 @@
         <div class="glass-card p-8 max-w-2xl mx-auto">
           <h3 class="text-2xl font-bold text-white mb-3">想了解具体方案和费用？</h3>
           <p class="text-gray-400 mb-6">每个客户的业务场景不同，我们会根据您的实际需求定制合作方案。预约 15 分钟咨询，我们帮您评估适配度。</p>
-          <a href="#contact" class="inline-flex items-center justify-center px-8 py-4 rounded-full bg-gradient-to-r from-primary-500 to-accent-500 text-white font-bold text-lg hover:shadow-lg hover:shadow-primary-500/30 transition-all hover:-translate-y-0.5">
+          <button @click="showModal = true" class="inline-flex items-center justify-center px-8 py-4 rounded-full bg-gradient-to-r from-primary-500 to-accent-500 text-white font-bold text-lg hover:shadow-lg hover:shadow-primary-500/30 transition-all hover:-translate-y-0.5 cursor-pointer">
             预约免费咨询
             <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6"/>
             </svg>
-          </a>
+          </button>
         </div>
       </div>
 
@@ -139,5 +139,11 @@
         </div>
       </div>
     </div>
+
+    <QRCodeModal v-model="showModal" />
   </section>
 </template>
+
+<script setup lang="ts">
+const showModal = ref(false)
+</script>

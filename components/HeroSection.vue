@@ -36,12 +36,12 @@
 
         <!-- CTA Buttons -->
         <div class="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16">
-          <a href="#contact" class="btn-primary text-lg px-8 py-4">
+          <button @click="showModal = true" class="btn-primary text-lg px-8 py-4 cursor-pointer">
             预约免费演示
             <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6"/>
             </svg>
-          </a>
+          </button>
           <a href="#demo" class="btn-secondary text-lg px-8 py-4">
             <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z"/>
@@ -90,11 +90,13 @@
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"/>
       </svg>
     </div>
+
+    <QRCodeModal v-model="showModal" />
   </section>
 </template>
 
-<script setup>
-// Hero section with animated background and product preview
+<script setup lang="ts">
+const showModal = ref(false)
 </script>
 
 <style scoped>
