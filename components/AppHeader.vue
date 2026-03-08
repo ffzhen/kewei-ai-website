@@ -6,9 +6,7 @@
     <div class="container-custom flex items-center justify-between">
       <!-- Logo -->
       <a href="/" class="flex items-center gap-2 group">
-        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-primary-500 to-accent-500 flex items-center justify-center group-hover:scale-105 transition-transform">
-          <span class="text-white font-bold text-lg">可</span>
-        </div>
+        <img src="/images/logo.png" alt="可为AI Logo" class="h-10 w-10 rounded-xl object-cover group-hover:scale-105 transition-transform" />
         <span class="text-xl font-bold gradient-text">可为AI</span>
       </a>
 
