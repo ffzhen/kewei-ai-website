@@ -29,9 +29,11 @@
         </h1>
 
         <!-- Subtitle -->
-        <p class="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto mb-10 leading-relaxed">
-          从 IP 定位到视频成片，我们提供系统 + 陪跑的一站式解决方案。
-          <span class="text-white">让你的团队日产 10+ 条高质量视频。</span>
+        <p class="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto mb-3 leading-relaxed">
+          <span class="text-white">先调研、再选题、后创作——你的 AI 内容合伙人</span>
+        </p>
+        <p class="text-base md:text-lg text-gray-500 max-w-xl mx-auto mb-10 leading-relaxed">
+          不是批量生成，是深度对话后的精准表达
         </p>
 
         <!-- CTA Buttons -->
@@ -52,18 +54,22 @@
         </div>
 
         <!-- Value Props -->
-        <div class="grid grid-cols-3 gap-8 max-w-xl mx-auto">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-3xl mx-auto">
           <div class="text-center">
-            <div class="text-3xl md:text-4xl font-bold gradient-text">10+</div>
-            <div class="text-sm text-gray-500 mt-1">条/天 产能</div>
+            <div class="text-2xl md:text-3xl font-bold gradient-text">对话</div>
+            <div class="text-sm text-gray-500 mt-1">挖掘你的内容基因</div>
           </div>
           <div class="text-center">
-            <div class="text-3xl md:text-4xl font-bold gradient-text">5min</div>
-            <div class="text-sm text-gray-500 mt-1">单条成片</div>
+            <div class="text-2xl md:text-3xl font-bold gradient-text">调研</div>
+            <div class="text-sm text-gray-500 mt-1">市场热点一手掌握</div>
           </div>
           <div class="text-center">
-            <div class="text-3xl md:text-4xl font-bold gradient-text">1人</div>
-            <div class="text-sm text-gray-500 mt-1">即可运营</div>
+            <div class="text-2xl md:text-3xl font-bold gradient-text">选题</div>
+            <div class="text-sm text-gray-500 mt-1">策略驱动的角度切入</div>
+          </div>
+          <div class="text-center">
+            <div class="text-2xl md:text-3xl font-bold gradient-text">成片</div>
+            <div class="text-sm text-gray-500 mt-1">专业 IP 视频一键交付</div>
           </div>
         </div>
       </div>
