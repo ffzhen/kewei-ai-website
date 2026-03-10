@@ -1,9 +1,11 @@
 <template>
   <div>
     <HeroSection />
-    <UseCasesSection />
+    <DifferentiationSection />
+    <ComparisonSection />
     <WorkflowSection />
     <FeaturesSection />
+    <UseCasesSection />
     <PricingSection />
     <CTASection />
   </div>
@@ -11,9 +13,9 @@
 
 <script setup>
 useHead({
-  title: '可为AI - AI 批量短视频生产系统',
+  title: '可为AI - IP 内容中台，从深度对话到批量交付',
   meta: [
-    { name: 'description', content: '可为AI 提供系统+陪跑的一站式 AI 短视频生产解决方案。帮助代运营团队、多账号运营者实现日产 10+ 条专业级视频，人力成本降低 60%。' }
+    { name: 'description', content: '可为AI 是专为代运营团队和 IP 操盘手打造的 AI 内容中台。实习生也能操盘——从 IP 定位到选题到视频产出，让生产交给可为。' }
   ]
 })
 </script>

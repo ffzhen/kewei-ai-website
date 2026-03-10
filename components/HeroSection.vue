@@ -24,16 +24,16 @@
 
         <!-- Main Title -->
         <h1 class="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 leading-tight tracking-tight">
-          <span class="block text-white">AI 帮你批量生产</span>
-          <span class="block gradient-text">专业级短视频</span>
+          <span class="block text-white">可为 AI</span>
+          <span class="block gradient-text">从深度对话，到批量交付</span>
         </h1>
 
-        <!-- Subtitle -->
-        <p class="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto mb-3 leading-relaxed">
-          <span class="text-white">先调研、再选题、后创作——你的 AI 内容合伙人</span>
+        <!-- Core Value Prop -->
+        <p class="text-lg md:text-xl text-white max-w-2xl mx-auto mb-3 leading-relaxed font-medium">
+          实习生也能操盘——从 IP 定位到选题到视频产出的 AI 内容中台
         </p>
-        <p class="text-base md:text-lg text-gray-500 max-w-xl mx-auto mb-10 leading-relaxed">
-          从深度对话，到批量交付
+        <p class="text-base md:text-lg text-gray-400 max-w-xl mx-auto mb-10 leading-relaxed">
+          让代运营团队、IP 操盘手专注内容策略，生产交给可为
         </p>
 
         <!-- CTA Buttons -->
@@ -56,20 +56,20 @@
         <!-- Value Props -->
         <div class="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-3xl mx-auto">
           <div class="text-center">
-            <div class="text-2xl md:text-3xl font-bold gradient-text">对话</div>
+            <div class="text-2xl md:text-3xl font-bold gradient-text">IP 定位</div>
             <div class="text-sm text-gray-500 mt-1">挖掘你的内容基因</div>
           </div>
           <div class="text-center">
-            <div class="text-2xl md:text-3xl font-bold gradient-text">调研</div>
-            <div class="text-sm text-gray-500 mt-1">市场热点一手掌握</div>
-          </div>
-          <div class="text-center">
-            <div class="text-2xl md:text-3xl font-bold gradient-text">选题</div>
+            <div class="text-2xl md:text-3xl font-bold gradient-text">智能选题</div>
             <div class="text-sm text-gray-500 mt-1">策略驱动的角度切入</div>
           </div>
           <div class="text-center">
-            <div class="text-2xl md:text-3xl font-bold gradient-text">成片</div>
-            <div class="text-sm text-gray-500 mt-1">专业 IP 视频一键交付</div>
+            <div class="text-2xl md:text-3xl font-bold gradient-text">批量生产</div>
+            <div class="text-sm text-gray-500 mt-1">一次产出 20+ 视频</div>
+          </div>
+          <div class="text-center">
+            <div class="text-2xl md:text-3xl font-bold gradient-text">可交付</div>
+            <div class="text-sm text-gray-500 mt-1">直接发布的成品视频</div>
           </div>
         </div>
       </div>
