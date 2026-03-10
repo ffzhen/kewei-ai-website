@@ -33,7 +33,7 @@
           <span class="text-white">先调研、再选题、后创作——你的 AI 内容合伙人</span>
         </p>
         <p class="text-base md:text-lg text-gray-500 max-w-xl mx-auto mb-10 leading-relaxed">
-          不是批量生成，是深度对话后的精准表达
+          从深度对话，到批量交付
         </p>
 
         <!-- CTA Buttons -->
