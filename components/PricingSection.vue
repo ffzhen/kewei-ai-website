@@ -130,7 +130,7 @@
           </div>
           <div class="glass p-6 rounded-2xl">
             <h4 class="text-white font-semibold mb-2">一天能产出多少条视频？</h4>
-            <p class="text-gray-400 text-sm">根据视频类型和复杂度不同，一个运营人员使用系统后，日产 10-20 条视频是常见水平。批量模式下效率更高。</p>
+            <p class="text-gray-400 text-sm">根据视频类型和复杂度不同，一个运营人员使用系统后，日产 10-100 条视频是常见水平。批量模式下效率更高。</p>
           </div>
           <div class="glass p-6 rounded-2xl">
             <h4 class="text-white font-semibold mb-2">支持哪些视频类型？</h4>
