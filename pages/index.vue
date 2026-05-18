@@ -69,7 +69,7 @@
       <div class="container founder">
         <div class="profile"><div class="profile-photo"><img src="/assets/founder-portrait-4x5.jpg?v=fc35216" alt="甄菲，AI 营销工作室创始人" loading="lazy" /></div><b>甄菲</b><span>AI 营销工作室创始人 / AI 内容系统搭建者</span><div class="tags"><span class="tag">业务流程梳理</span><span class="tag">团队工具搭建</span><span class="tag">内容系统</span><span class="tag">AI 落地</span></div></div>
         <div><div class="section-label" data-no="03">Founder manual</div><h2>为什么是我来做这件事？</h2><p style="margin:18px 0 24px">我过去一直在做一件事：把老板、业务部门和团队每天重复处理的复杂工作，整理成普通人也能照着走的工具和流程。现在，我把这套能力用在实体行业的 AI 内容生产上。</p>
-          <div class="path"><div class="path-item"><time>01</time><p>在科大讯飞参与 AI 平台相关系统建设，理解一项技术能力要怎么变成团队真正能用的产品。</p></div><div class="path-item"><time>02</time><p>在小米做海外电商后台工具，把商品、活动、页面配置这些重复工作，做成业务同事可以自己操作的系统。</p></div><div class="path-item"><time>03</time><p>在吉利集团做企业内部流程工具，处理跨部门协作、审批、资料流转和业务标准化的问题。</p></div><div class="path-item"><time>04</time><p>创立可为 AI，把这些“拆流程、建工具、教团队使用”的经验，迁移到实体行业的内容获客系统里。</p></div></div>
+          <div class="path"><div class="path-item"><time>01</time><p><strong>履历浓缩成一句：</strong>我从科大讯飞 AI 平台、小米海外电商后台，到吉利集团企业流程工具，一直在做“把复杂业务整理成普通团队也能使用的系统”。</p></div><div class="path-item"><time>02</time><p><strong>我懂技术，也懂老板的真实焦虑。</strong>我不会只讲模型和工具，而是先判断：客户是谁、卖点是什么、成交卡在哪里、团队能不能长期执行。</p></div><div class="path-item"><time>03</time><p><strong>我擅长把经验变成可复用资产。</strong>把老板脑子里的判断、销售口径、客户问题和案例素材，整理成知识库、选题库、脚本模板和审核标准。</p></div><div class="path-item"><time>04</time><p><strong>我交付的是能跑起来的内容系统。</strong>工具、SOP、培训、陪跑和渠道合作放在同一套流程里，目标不是一次生成内容，而是让团队持续表达。</p></div></div>
         </div>
       </div>
     </section>
