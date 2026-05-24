@@ -16,16 +16,16 @@
       <div class="container hero-grid">
         <div>
           <div class="eyebrow">不是再多一个 AI 工具，而是一套由我亲自跑通的内容体系</div>
-          <h1>把内容获客，做成<span class="mark">可复制的 AI 系统</span>。</h1>
-          <p class="lead">我是甄菲，AI 营销工作室创始人。帮助实体商家、工厂企业和服务商，搭建客户知识库、选题系统、内容 SOP 和 Agent 工作流，让团队不再只靠个人手感发内容。</p>
-          <p class="subtitle">A founder-led content operating system, not another AI account or代运营套餐.</p>
-          <div class="hero-actions"><a class="btn primary" href="#contact">预约一次内容诊断</a><a class="btn ghost" href="#system">了解可为 AI 怎么运行</a></div>
-          <p class="hero-note">交付的不只是提示词或软件账号，而是：客户知识库、选题系统、内容 SOP、审核标准、Agent 工作流和团队训练方法。</p>
+          <h1><span class="title-line">把内容获客，</span><span class="title-line">做成一套</span><span class="title-line mark">可复制的 AI 系统。</span></h1>
+          <p class="lead">我是甄菲，AI 营销工作室创始人。帮实体商家、工厂企业和服务商，把产品资料、客户案例、销售话术和内容素材，整理成一套能持续产出内容的 AI 工作流。</p>
+          <p class="subtitle">先把业务讲清楚，再让 AI 稳定生产内容。</p>
+          <div class="hero-actions"><a class="btn primary" href="#contact">预约一次内容诊断</a><a class="btn ghost" href="#system">看看系统如何跑通</a></div>
+          <p class="hero-note">交付的不只是提示词或软件账号，而是：客户知识库、选题系统、内容 SOP、审核标准、AI 工作流和团队训练方法。</p>
         </div>
         <aside class="manual-card" aria-label="内容系统工作台">
-          <div class="card-top"><span class="live">KeWei Content OS</span><span>Founder-led / Human-in-the-loop</span></div>
+          <div class="card-top"><span class="live">KeWei Content OS</span><span>主理人带队 / 人工审核</span></div>
           <div class="console">
-            <div class="console-title"><b>内容体系搭建进度</b><span>诊断 → 知识库 → 流程包 → 审核</span></div>
+            <div class="console-title"><b>内容体系搭建进度</b><span>诊断 → 知识库 → 流程包 → 人工审核</span></div>
             <div class="metric-row"><div class="metric"><strong>100+</strong><span>企业客户服务经验</span></div><div class="metric"><strong>400+</strong><span>课程学员赋能</span></div><div class="metric"><strong>6万</strong><span>付费 AI 社群教练</span></div></div>
             <div class="task"><span>客户知识库</span><span>定位 / 产品 / 话术 / 案例</span></div>
             <div class="task"><span>内容策略层</span><span>选题桶 / 人设 / 转化路径</span></div>
@@ -39,8 +39,8 @@
     <div class="container proof-strip" aria-label="专业背书">
       <div class="proof"><strong>8年</strong><span>大厂与复杂业务系统工程经验</span></div>
       <div class="proof"><strong>100+</strong><span>企业客户与行业场景服务经验</span></div>
-      <div class="proof"><strong>10–50x</strong><span>内容生产效率提升方向，不等同结果承诺</span></div>
-      <div class="proof"><strong>HITL</strong><span>人机协作审核，避免全自动失控</span></div>
+      <div class="proof"><strong>10–50x</strong><span>内容生产效率提升参考，具体以项目复盘为准</span></div>
+      <div class="proof"><strong>人工审核</strong><span>人机协作把关，避免全自动失控</span></div>
     </div>
 
     <section id="why">
@@ -91,7 +91,7 @@
 
     <section id="system">
       <div class="container system-map">
-        <div class="section-head"><div class="section-label" data-no="05">Product manual</div><h2>可为 AI 是什么？</h2><p>它不是单点的一键生成工具，而是一套围绕实体行业内容获客搭建的工作流。大模型负责生成，Agent 负责执行，可为 AI 负责把客户的行业经验、产品卖点、成交话术和内容判断，沉淀成可持续使用的业务流程包。</p></div>
+        <div class="section-head"><div class="section-label" data-no="05">Product manual</div><h2>可为 AI 是什么？</h2><p>它不是单点的一键生成工具，而是一套围绕实体行业内容获客搭建的工作流。大模型负责生成，AI 助手负责执行，可为 AI 负责把客户的行业经验、产品卖点、成交话术和内容判断，沉淀成可持续使用的业务流程包。</p></div>
         <div class="video-panel" id="demo-video">
           <div class="video-frame">
             <video controls preload="metadata" poster="/videos/promo-poster.jpg">
@@ -229,7 +229,7 @@ useHead({
     h1{font-size:clamp(40px,6.1vw,72px);line-height:1.16}
     h2{font-size:clamp(33px,4.5vw,56px);line-height:1.13}
     h3{font-size:22px;letter-spacing:-.02em}
-    p{margin:0}.mark{position:relative;color:var(--green);white-space:nowrap}.mark:after{content:"";position:absolute;left:0;right:0;bottom:.02em;height:.18em;background:rgba(200,132,47,.28);z-index:-1;border-radius:999px}
+    p{margin:0}.title-line{display:block}.mark{position:relative;color:var(--green);white-space:nowrap}.mark:after{content:"";position:absolute;left:0;right:0;bottom:.02em;height:.18em;background:rgba(200,132,47,.28);z-index:-1;border-radius:999px}
     .section-label{display:flex;align-items:center;gap:10px;margin-bottom:18px;color:var(--green-2);font-weight:850;font-size:12px;letter-spacing:.12em;text-transform:uppercase}.section-label:before{content:attr(data-no);font-family:Georgia,serif;color:var(--gold);font-size:18px;letter-spacing:0}
     .hero{padding:76px 0 88px}.hero-grid{display:grid;grid-template-columns:1fr 1fr;gap:58px;align-items:center}.eyebrow{display:inline-flex;align-items:center;gap:10px;padding:8px 12px;border:1px solid var(--line);border-radius:999px;background:rgba(255,250,240,.64);font-size:13px;color:var(--green);font-weight:760;margin-bottom:24px}.eyebrow:before{content:"";width:8px;height:8px;border-radius:50%;background:var(--gold)}
     .lead{font-size:18px;color:#3f473f;max-width:650px;margin-top:24px}.subtitle{font-family:Georgia,serif;font-style:italic;color:#887e6a;font-size:18px;margin-top:20px}.hero-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:30px}.hero-note{font-size:13px;color:var(--muted);margin-top:16px;max-width:620px}
