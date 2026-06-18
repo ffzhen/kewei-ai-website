@@ -7,14 +7,14 @@ export default defineNuxtConfig({
   ],
   app: {
     head: {
-      title: '可为AI - 多智能体一键成片系统',
+      title: 'Kiwii 甄菲｜AI 内容系统实验室',
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-        { name: 'description', content: '可为AI是新一代AI数字人视频生成系统，通过多智能体协作，实现"一句话生成视频"。支持代运营团队批量生产、多账号管理、智能剪辑。' },
-        { name: 'keywords', content: 'AI视频,数字人,视频生成,智能剪辑,多智能体,内容创作,短视频制作,代运营' },
-        { property: 'og:title', content: '可为AI - 多智能体一键成片系统' },
-        { property: 'og:description', content: '一句话生成视频，从选题到成片，AI自动完成全流程' },
+        { name: 'description', content: 'Kiwii 甄菲的个人 IP / 主理人官网：记录可为 AI、垂直行业内容系统、旅游与律师样板案例，以及 Agent 工具链实践。' },
+        { name: 'keywords', content: 'Kiwii,甄菲,可为AI,AI内容系统,AI营销,垂直行业,Agent工作流' },
+        { property: 'og:title', content: 'Kiwii 甄菲｜AI 内容系统实验室' },
+        { property: 'og:description', content: '个人 IP / 主理人官网：用真实案例跑通垂直行业 AI 内容系统。' },
         { property: 'og:type', content: 'website' },
         { name: 'twitter:card', content: 'summary_large_image' },
       ],
