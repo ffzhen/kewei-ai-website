@@ -8,7 +8,8 @@
 |------|-----|
 | 项目名 | kewei-ai-website |
 | GitHub | https://github.com/ffzhen/kewei-ai-website |
-| 线上域名 | https://kw101.com |
+| 线上域名 | http://keweiai.cn / https://keweiai.cn |
+| 备用域名 | https://kw101.com |
 | 预览地址 | https://kewei-ai-website.pages.dev |
 | 框架 | Nuxt 3 (SSG 静态生成) + Tailwind CSS |
 | 部署平台 | Cloudflare Pages（GitHub 自动部署） |
